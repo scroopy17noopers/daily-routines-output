@@ -1,0 +1,104 @@
+{
+  "report_type": "market_close",
+  "generated_at": "2026-09-06T12:41:40.473806Z",
+  "market_date": "2026-09-04",
+  "instruments": [
+    {
+      "instrument_id": "SPY",
+      "display_name": "SPY",
+      "status": "available",
+      "current_observed_at": "2026-09-04",
+      "previous_observed_at": "2026-09-03",
+      "current_value": "770.19",
+      "previous_value": "773.17",
+      "percentage_change": "-0.39",
+      "currency": "USD",
+      "unit": "USD per share",
+      "source": "Nasdaq Historical",
+      "session_convention": "final US regular-session close"
+    },
+    {
+      "instrument_id": "NDX",
+      "display_name": "Nasdaq 100",
+      "status": "available",
+      "current_observed_at": "2026-09-04",
+      "previous_observed_at": "2026-09-03",
+      "current_value": "29544.16",
+      "previous_value": "29482.32",
+      "percentage_change": "0.21",
+      "unit": "index points",
+      "source": "Nasdaq Historical",
+      "session_convention": "final Nasdaq cash-index close"
+    },
+    {
+      "instrument_id": "SX5E",
+      "display_name": "Euro STOXX 50",
+      "status": "unavailable"
+    },
+    {
+      "instrument_id": "DAX",
+      "display_name": "DAX",
+      "status": "unavailable"
+    },
+    {
+      "instrument_id": "WTI",
+      "display_name": "WTI crude oil",
+      "status": "unavailable"
+    },
+    {
+      "instrument_id": "VIX",
+      "display_name": "VIX",
+      "status": "available",
+      "current_observed_at": "2026-09-04",
+      "previous_observed_at": "2026-09-03",
+      "current_value": "14.530000",
+      "previous_value": "14.320000",
+      "percentage_change": "1.47",
+      "unit": "index points",
+      "source": "Cboe VIX Historical Data",
+      "session_convention": "official Cboe spot-index close"
+    },
+    {
+      "instrument_id": "V2TX",
+      "display_name": "VSTOXX",
+      "status": "unavailable"
+    },
+    {
+      "instrument_id": "TTF",
+      "display_name": "Dutch TTF natural gas",
+      "status": "unavailable"
+    },
+    {
+      "instrument_id": "GOLD",
+      "display_name": "Gold",
+      "status": "unavailable"
+    },
+    {
+      "instrument_id": "BTC-USD",
+      "display_name": "Bitcoin",
+      "status": "available",
+      "current_observed_at": "2026-09-06T12:41:38.438983Z",
+      "previous_observed_at": "2026-09-05T12:42:00Z",
+      "current_value": "79958.07",
+      "previous_value": "79760.98",
+      "percentage_change": "0.25",
+      "currency": "USD",
+      "unit": "USD per bitcoin",
+      "source": "Coinbase Exchange",
+      "session_convention": "Coinbase BTC-USD timestamped spot observation over 24h"
+    },
+    {
+      "instrument_id": "US10Y",
+      "display_name": "US 10-year Treasury yield",
+      "status": "available",
+      "current_observed_at": "2026-09-04",
+      "previous_observed_at": "2026-09-03",
+      "current_value": "4.780",
+      "previous_value": "4.770",
+      "basis_point_change": "1.0",
+      "unit": "percent",
+      "source": "US Treasury",
+      "session_convention": "official US Treasury daily par yield curve rate"
+    }
+  ]
+}
