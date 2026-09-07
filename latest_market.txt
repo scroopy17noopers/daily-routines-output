@@ -6,7 +6,7 @@ DAX: unavailable.
 WTI crude oil: unavailable.
 VIX: 14.53 (+1.47%)
 VSTOXX: unavailable.
-Dutch TTF natural gas: unavailable.
+Dutch TTF natural gas Oct-26: €71.95/MWh (+0.20%)
 Gold: unavailable.
-Bitcoin: $79,958 (+0.25% over 24h, 14:41 CEST)
+Bitcoin: $79,754 (-0.20% over 24h, 08:17 CEST)
 US 10Y: 4.780% (+1.0 bp)

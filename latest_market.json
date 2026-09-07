@@ -1,6 +1,6 @@
 {
   "report_type": "market_close",
-  "generated_at": "2026-09-06T12:41:40.473806Z",
+  "generated_at": "2026-09-07T06:17:30.404960Z",
   "market_date": "2026-09-04",
   "instruments": [
     {
@@ -66,7 +66,17 @@
     {
       "instrument_id": "TTF",
       "display_name": "Dutch TTF natural gas",
-      "status": "unavailable"
+      "status": "available",
+      "current_observed_at": "2026-09-04",
+      "previous_observed_at": "2026-09-03",
+      "current_value": "71.952",
+      "previous_value": "71.81",
+      "percentage_change": "0.20",
+      "currency": "EUR",
+      "unit": "EUR per MWh",
+      "contract_month": "Oct-26",
+      "source": "ICE",
+      "session_convention": "ICE historical EOD chart value; settlement status not exposed"
     },
     {
       "instrument_id": "GOLD",
@@ -77,11 +87,11 @@
       "instrument_id": "BTC-USD",
       "display_name": "Bitcoin",
       "status": "available",
-      "current_observed_at": "2026-09-06T12:41:38.438983Z",
-      "previous_observed_at": "2026-09-05T12:42:00Z",
-      "current_value": "79958.07",
-      "previous_value": "79760.98",
-      "percentage_change": "0.25",
+      "current_observed_at": "2026-09-07T06:17:28.361128Z",
+      "previous_observed_at": "2026-09-06T06:17:00Z",
+      "current_value": "79753.99",
+      "previous_value": "79915.45",
+      "percentage_change": "-0.20",
       "currency": "USD",
       "unit": "USD per bitcoin",
       "source": "Coinbase Exchange",
