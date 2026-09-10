@@ -1,12 +1,12 @@
-Market Close — 4 Sep 2026
-SPY: $770.19 (-0.39%)
-Nasdaq 100: 29,544.16 (+0.21%)
+Market Close — 9 Sep 2026
+SPY: $762.40 (-0.46%)
+Nasdaq 100: 29,421.55 (-0.29%)
 Euro STOXX 50: unavailable.
 DAX: unavailable.
 WTI crude oil: unavailable.
-VIX: 14.53 (+1.47%)
+VIX: 16.46 (+4.71%)
 VSTOXX: unavailable.
-Dutch TTF natural gas Oct-26: €71.95/MWh (+0.20%)
+Dutch TTF natural gas Oct-26: €79.25/MWh (+4.49%)
 Gold: unavailable.
-Bitcoin: $79,754 (-0.20% over 24h, 08:17 CEST)
-US 10Y: 4.780% (+1.0 bp)
+Bitcoin: $77,450 (-1.72% over 24h, 19:37 CEST)
+US 10Y: 4.830% (+3.0 bp)
