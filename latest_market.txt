@@ -1,12 +1,12 @@
-Market Close — 21 Sep 2026
-S&P 500: 7,764.70 (+1.49%)
-Nasdaq 100: 30,482.35 (+2.83%)
+Market Close — 22 Sep 2026
+S&P 500: 7,764.64 (0.00%)
+Nasdaq 100: 30,732.40 (+0.82%)
 Euro STOXX 50: unavailable.
 DAX: unavailable.
 WTI crude oil: unavailable.
-VIX: 14.87 (+0.41%)
+VIX: 14.21 (-4.44%)
 VSTOXX: unavailable.
-Dutch TTF natural gas Oct-26: €73.25/MWh (-7.88%)
+Dutch TTF natural gas Oct-26: €73.34/MWh (+0.12%)
 Gold: unavailable.
-Bitcoin: $85,969 (+1.28% over 24h, 13:59 CEST)
-US 10Y: 4.960% (-5.0 bp)
+Bitcoin: $86,915 (+1.53% over 24h, 06:15 CEST)
+US 10Y: 4.960% (0.0 bp)
