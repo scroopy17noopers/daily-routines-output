@@ -1,12 +1,12 @@
-Market Close — 25 Sep 2026
-S&P 500: 7,743.41 (+0.51%)
-Nasdaq 100: 30,608.13 (+0.42%)
-Euro STOXX 50: 6,302.82 (+0.48%)
-DAX: 25,408.64 (+0.56%)
-WTI crude oil: unavailable.
-VIX: 14.87 (-5.11%)
-VSTOXX: 17.25 (-5.25%)
-Dutch TTF natural gas Oct-26: €72.07/MWh (-4.04%)
+Market Close — 28 Sep 2026
+S&P 500: 7,683.69 (-0.77%)
+Nasdaq 100: 30,276.81 (-1.08%)
+Euro STOXX 50: 6,301.28 (-0.02%)
+DAX: 25,374.42 (-0.13%)
+WTI crude oil: 92.60 (+0.21%)
+VIX: 16.07 (+8.07%)
+VSTOXX: 17.86 (+3.50%)
+Dutch TTF natural gas Oct-26: €73.44/MWh (+1.90%)
 Gold: unavailable.
-Bitcoin: $83,994 (-0.07% over 24h, 06:15 CEST)
-US 10Y: 5.170% (-1.0 bp)
+Bitcoin: $83,176 (-0.20% over 24h, 07:10 CEST)
+US 10Y: 5.240% (+7.0 bp)
